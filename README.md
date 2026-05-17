@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KipChu
+# 👋 Hi, I'm Kipchun
 
 Computer Science student passionate about software development, object-oriented programming, and building practical applications with Java and C++.
 
