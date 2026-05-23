@@ -1,36 +1,34 @@
-# 👋 Hi, I'm Kipchun
+# Kipchun
 
-Computer Science student passionate about software development, object-oriented programming, and building practical applications with Java and C++.
-
-I enjoy working on team-based projects, learning new technologies, and applying software engineering principles to real-world problems.
-
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science student at Arizona State University
-- 💻 Experienced in Java and C++ development
-- 🔐 Interested in software security and information assurance
-- 🤝 Comfortable working in agile, team-based environments
-- 🛠 Enjoy building structured, maintainable applications
+Computer Science student · Software Developer
+Focused on Java, C++, and practical applications
 
 ---
 
-## 💻 Technical Skills
+## About
 
-### Languages
+Passionate about software engineering with a strong foundation in object-oriented design. I thrive in collaborative team environments and enjoy applying CS principles to build real-world tools and systems.
+
+---
+
+## 💻 Languages and Frameworks
+
 - Java
 - C++
+- Python
+- Node.js
+- React Native
+- Go
 
-### Tools & Technologies
+## 🛠️ Tools & Technologies
+
 - Git & GitHub
 - Visual Studio Code
-- IntelliJ IDEA (if applicable)
-- Cursor AI (AI-assisted development tool)
+- IntelliJ IDEA
+- Cursor AI
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Software Development Lifecycle (SDLC)
-- Agile Development
-- Secure Coding Practices
-- Basic Information Assurance & Threat Modeling
+---
+
+## Interests
+
+Object-oriented programming · Team collaboration · Systems design · New technologies · Real-world applications
